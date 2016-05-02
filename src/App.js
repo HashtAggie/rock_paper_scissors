@@ -62,7 +62,7 @@ class App extends React.Component {
         currentGame: game
       });
     } else {
-      window.alert("Can't touch this dung dung dung dung");
+      window.alert("STOP! Hammertime!!!");
     }
   }
 
