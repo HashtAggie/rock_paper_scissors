@@ -1,3 +1,4 @@
+
 import BaseModel from './BaseModel';
 
 class GameModel extends BaseModel {
@@ -10,6 +11,7 @@ class GameModel extends BaseModel {
       winner: null
     };
   }
+
   constructor() {
     super('game');
   }
